@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to the Conference Tech Crew
 
-You can use the [editor on GitHub](https://github.com/Conference-Tech/contechcrew.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You have found our crews unofficial place on the web! This page serves only as a general page and any and all contact should be handled through officially provided commuinication methods for volunteers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About us
 
-### Markdown
+We are a volunter crew that supports a large annual festival in Austin, TX. We assist with the technical set up of sessions, including connecting laptops to projectors, setting microphone audio levels, and general troubleshooting. A smile and a polite greeting are a big part of this crew. Technical experience is not required.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How do I volunteer?
 
-```markdown
-Syntax highlighted code block
+For any and all official information about volunteering with us, please see the official [Volunteer Page](https://volunteer.sxsw.com/) on their website for the most up to date and accurate details. 
 
-# Header 1
-## Header 2
-### Header 3
+### Contact us
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Conference-Tech/contechcrew.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All contact should be done through our official Crew email, which will be provided to you as part of volunteering. Additional direct contact information for Crew Managers during the event will also be provided to volunteers as needed.
